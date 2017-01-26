@@ -1,0 +1,24 @@
+{
+	"services": {
+		"project_link_1": {
+			"name":"project_link_1",
+			"url":"//project_link_1.com.br/",
+			"icon":"fa-gitlab" 
+		},
+		"project_link_2": {
+			"name": "project_link_2",
+			"url": "//project_link_2.com.br/",
+			"icon":"fa-play-circle-o"
+		},
+		"project_link_3": {
+			"name": "project_link_3",
+			"url": "//project_link_3.com.br/",
+			"icon":"fa-user-circle" 
+		},
+		"project_link_4": {
+			"name": "project_link_4",
+			"url": "//project_link_3.com.br/",
+			"icon":"fa-user-circle-o"
+		}
+	}
+}
